@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\src\\index.js"],"names":["render","console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;QAAgBA,SAAAA;AAAT,SAASA,MAAT,GAAkB;AACrBC,YAAQC,GAAR,CAAY,QAAZ;AACH","file":"src.4aae77e0.map","sourceRoot":"..","sourcesContent":["export function render() {\r\n    console.log('render');\r\n}"]}

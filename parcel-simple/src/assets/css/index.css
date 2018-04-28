@@ -1,0 +1,5 @@
+@import './other.css';
+
+#app {
+    background-image: url('../img/back.png');
+}
